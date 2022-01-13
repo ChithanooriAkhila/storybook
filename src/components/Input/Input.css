@@ -1,0 +1,21 @@
+.input{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+}
+
+
+.small{
+    height:30px;
+    font-size:small;
+}
+
+.medium{
+    height:40px;
+    font-size: medium;
+}
+
+.large{
+    height:50px;
+    font-size: large;
+}
